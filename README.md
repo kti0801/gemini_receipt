@@ -13,4 +13,4 @@ ln -s /home/codespace/.local/lib/python3.10/site-packages/bin/streamlit /home/co
 
 streamlit run chatbot.py
 ```
-Dependency: `google-generativeai`, `streamlit`, `pandas`.
+Dependency: `google-generativeai`, `streamlit`, `pandas`.  
