@@ -1,3 +1,3 @@
-# gemini_receipt
+# RAG practice
 
 codespace에 작성
